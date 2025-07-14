@@ -26,8 +26,8 @@ config.line_height = 0.8
 config.color_scheme = "Nocturnal Winter"
 config.default_cursor_style = "SteadyUnderline"
 
-config.window_background_opacity = 0.5
-config.win32_system_backdrop = "Tabbed"
+config.window_background_opacity = 0.6
+config.win32_system_backdrop = "Acrylic"
 
 -- Appearance
 config.window_decorations = "RESIZE"
